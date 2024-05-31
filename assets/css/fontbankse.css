@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "COCOGOOSE";
+  src: url("https://bankse.in/assets/fonts/fontbankse.eot"); /* IE9*/
+  src: url("https://bankse.in/assets/fonts/fontbankse.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("https://bankse.in/assets/fonts/fontbankse.woff2")
+      format("woff2"),
+    /* chrome firefox */ url("https://bankse.in/assets/fonts/fontbankse.woff")
+      format("woff"),
+    /* chrome firefox */ url("https://bankse.in/assets/fonts/fontbankse.ttf")
+      format("truetype"),
+    /* chrome firefox opera Safari, Android, iOS 4.2+*/
+      url("https://bankse.in/assets/fonts/fontbankse.svg#COCOGOOSE")
+      format("svg"); /* iOS 4.1- */
+}

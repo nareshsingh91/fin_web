@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bankse",
+      "sha256_cert_fingerprints":
+      ["72:34:9B:B4:75:D8:0E:73:B3:4D:0A:5D:29:33:8F:D6:39:3B:CF:9A:AA:03:F2:AA:26:5D:78:BE:A7:AE:71:B4"]
+    }
+  }
+]

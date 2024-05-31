@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name=description content="A digital marketplace that provides all types of loans and other financial products. We provide the best choice of Financial products offered by various trusted leading banks in India">
+  <title>Wefin | Privacy Policy</title>
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=GTM-M2SS27M"></script> -->
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-M2SS27M');</script>
+  <!-- End Google Tag Manager -->
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/favicon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicons/favicon.png">
+  <meta name="msapplication-TileImage" content="">
+  <meta name="theme-color" content="#ffffff">
+
+  <link href="assets/css/bankse-common.css?v=111" rel="stylesheet" />
+
+</head>
+
+
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2SS27M" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+
+  <main class="main" id="top">
+    <div id="bs-topbar" class="d-flex align-items-center">
+      <div class="container d-flex justify-content-between">
+        <div class="contact-info d-flex align-items-center">
+          <a href="mailto:support@wefin.in" class="d-none bs-d-md-block"><img src="./assets/images/icons/email.png"
+              alt="email-icon">E-mail : support@wefin.in</a>
+          <a href="tel:01140724283"><img src="./assets/images/icons/phone.svg" width="10" height="10" alt="call-icon">Call us: 011-40724283</a>
+        </div>
+        <div class="d-flex social-links align-items-center  ">
+          <span class="d-none bs-d-md-block"><a href="https://app.wefin.in/"><img src="./assets/images/icons/user.png"
+                alt="user-icon">Sign in</a></span>
+          <span>Get APP</span>
+          <span class="btn-appstore"><a href="https://play.google.com/store/apps/details?id=com.bankse"
+              aria-label="play" target="_blank"><svg width="23.732" height="26.909" viewBox="0 0 23.732 26.909">
+                <use xlink:href="#playstore"></use>
+              </svg></a>
+            <a href="https://apps.apple.com/us/app/bankse/id1602186654" aria-label="apps" target="_blank"><svg
+                width="23.732" height="26.909" viewBox="0 0 23.732 26.909">
+                <use xlink:href="#appstore"></use>
+              </svg></a> </span>
+        </div>
+      </div>
+    </div>
+    <header id="header" class="border-bottom bs-header">
+
+      <nav id="navbar" class="navbar navbar-expand-sm">
+        <div class="container bs-container">
+          <a class="navbar-brand" href="/"><img src="assets/images/wefin-logo.svg" alt="bankse-logo">
+            <img class="r-logo-d-m" src="assets/images/renterprise-logo.svg" width="80" alt="renterprise-logo"></a>
+          <a href="https://app.wefin.in/" class="bs-mobile-sign-in"> Sign In</a>
+          <button class="navbar-toggler x" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar"
+            aria-label="toggler">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav me-auto">
+              <li class="nav-item">
+                <a class="nav-link scrollto" href="/#loans">Loans</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link " href="https://app.wefin.in/credit-score">Credit Score</a>
+                <span class="free_scroe">Free</span>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link scrollto" href="/#emicalculator">EMI Calculator</a>
+              </li>
+              <li class=nav-item>
+                <a class="nav-link scrollto" href="https://blog.wefin.in/">Blog</a>
+              </li>
+
+            </ul>
+            <form class="d-flex bs-app-box">
+              <img class="r-logo-d-d " src="assets/images/renterprise-logo.svg" width="130" alt="renterprise-logo">
+              <!-- <div class="btn hover-top nav-btn-appstore">
+         Get APP <a href="https://play.google.com/store/apps/details?id=com.bankse" target="_blank"><svg width="23.732" height="26.909" viewBox="0 0 23.732 26.909"><use xlink:href="#playstore"></use></svg></a> 
+		  <a href="https://apps.apple.com/us/app/bankse/id1602186654" target="_blank"><svg width="23.732" height="26.909" viewBox="0 0 23.732 26.909"> <use xlink:href="#appstore"></use></svg></a>
+            
+           
+            </div> -->
+
+            </form>
+          </div>
+        </div>
+      </nav>
+
+
+
+    </header>
+
+    <section class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h1>Privacy Policy</h1>
+          <ol>
+            <li><a href="/">Home</a></li>
+            <li>Privacy Policy</li>
+          </ol>
+        </div>
+
+      </div>
+    </section>
+
+    <section class="privacy-section padding-0-5">
+
+
+      <div class="container">
+        <div class="privacy-block">
+          <h2>1. Overview</h2>
+
+          <p>This policy details the data privacy guidelines that need to be followed within Neotec Enterprises Limited.
+          </p>
+
+          <h2>2.  Purpose</h2>
+
+          <p>Purpose of this policy is to provide general guidelines for ensuring data privacy and proper handling of
+            sensitive and confidential data including but not limited to customer data</p>
+
+          <h2>3. Scope</h2>
+
+          <p>This policy applies to employees, contractors, consultants, temporaries, and other workers at Neotec
+            Enterprises Limited including all personnel affiliated with third parties and client data. </p>
+
+          <h2>4. Data Privacy</h2>
+          <p>Neotec Enterprises Limited respects the privacy of its customers and is committed to protecting the
+            personal information shared by the client. This policy describes how Neotec Enterprises Limited collects
+            and uses its client’s personal information.</p>
+            <ul>
+              <li><p>Information from user</p></li>
+              <li><p>Use of Information</p></li>
+              <li><p>Information Sharing and Disclosure</p></li>
+              <li><p>Collection of Cookies</p></li>
+              <li><p>Storage of Personal Data</p></li>
+              <li> <p>Data Security </p></li>
+              <li><p>Third party Information or Websites</p></li>
+              <li><p>Changes in this Policy</p></li>
+              <li><p>Consent & Your Control over your personal Information</p></li>
+              <li><p>Opt Out Policy </p></li>
+              <li><p>Contact us</p></li>
+            </ul>
+
+          <h2>4.1 Information from User</h2>
+         <ul>
+          <li>We may collect your Personal Information when you use our services or Platform or otherwise
+            interact with us during the course of our relationship. We collect Personal Information which is
+            relevant and absolutely necessary for providing the services requested by you and to continually
+            improve the Wefin App.</li>
+            <li>For better use of the products and services available on the Wefin App, user is required, to
+              provide certain additional personal information such as phone number, first name, last name, present address,email id,
+              date of birth and gender etc., after registration and such information shall be collected
+              on a case-to-case basis on various periods by receiving user’s express consent. Wefin will
+              automatically receive and collect certain anonymous information in standard usage logs through
+              their web server, including but not limited to mobile-identification information, cookies sent to
+              the App, mobile network information, standard web log information, traffic to and from wefin
+              App, tracking inside the App and any other available information, from an IP address, assigned to
+              the device used by user or the domain server through which user access the App and the functions
+              and features therein and / or the type of device used by user. </li>
+              
+          <li>User may choose to provide Wefin with access to certain personal information of the user stored
+            by third party sites for the purposes including but not limited to PAN verification, offline KYC, name
+            match, penny drop, e-signing of the agreement and face liveliness. Wefin will have access to such
+            information to the extent allowed by the user’s privacy settings on that website and the user’s
+            specific authorization. In the event user link its account managed by Wefin with an account
+            maintained by any third party to enable Wefin to access certain information maintained in such
+            third party managed accounts, user agree that Wefin may collect, store and use such information
+            in accordance with this online privacy policy</li>
+          <li>We may access contact information, such as user’s name, user’s address, user’s phone number, email and
+            other similar information and location, phone and / or any device storage. We share your
+            information with third parties and Lending Partners to provide effective customer support
+            Services. Wefin does not charge user anything, on the contrary Wefin may receive consideration
+            from third parties to whom user’s request is passed on. By agreeing / giving consent to the privacy
+            policy, you provide your express consent to us to use the information listed in this Clause for
+            purposes mentioned in this Clause.</li>
+          <li>We desist from accessing mobile phone resources like file and media, contact list, call logs,
+            telephony functions and others or collecting any biometric data. Please note that we shall seek a
+            ‘ONE TIME ACCESS’ of camera for photos/media for the purpose of KYC and collect KYC documents
+            upon confirmation from user.</li>
+         </ul> 
+         
+
+          <h2>4.2 Use of Information</h2>
+          <p>When user registers with the Wefin App, Wefin will use the information supplied by user to pull a
+            credit report from credit bureaus and identity verification services to facilitate Wefin to evaluate the
+            user’s loan request in the context of the user’s complete financial situation. Wefin will also use user’s
+            information to enable activities and transactions that need to occur during the process of lending,
+            including but not limited to (i) generating and maintaining user’s profile(s) on the App; (ii) provide
+            personalized features / Lender Offers; (iii) aiding user to provide better services; (iv) facilitating
+            collection activities as needed; (v) maintaining regular communications with user concerning
+            transactions that user initiate, including requesting information or assistance, verifying Bank Account
+            through Penny Drop etc.; (vi) modifying the App from time to time to cater to user’s interests; (vii)
+            providing the App and the functions and features therein, efficiently; and (viii) preserve social history
+            as governed by existing law or policy. </p>
+          <p>Wefin may use the personal information to improve its services to user and to keep user updated
+            about their new products or other information that may be of interest to user. Wefin shall not
+            beresponsible to verify your identity or determine your eligibility for using its products and / or
+            technology and safeguard against illegal activities like fraud, cheating, misappropriation, etc. </p>
+          <p>User acknowledge that user is licensing Wefin to use, modify, display, distribute and create new
+            material from the information user provide through the App to render certain services on the App. By
+            providing such information, user automatically agree, or promise that the owner of such information
+            has expressly agreed to allow or license, as the case may be, Wefin to use the information in the
+            manner set out in the privacy policy, without the payment of any fees. Wefin may, to the extent
+            permitted by law, use, license, reproduce, distribute and disclose aggregate, non-personally
+            identifiable information that is derived through user’s use of the App and user hereby provide consent
+            for the same. The data collected enables Wefin to do a collected advanced analytics of customers
+            profile to evaluate user propensity to pay, identify cross selling opportunities and collection analytics.
+          </p>
+
+
+          <h2>4.3 Information sharing and Disclosures</h2>
+          <p>Wefin will protect user’s personal information against unauthorized use, dissemination or
+            publication in the same manner in which Wefin would protect its confidential information of like
+            nature. However, under certain conditions Wefin may share this information as allowed under
+            applicable laws. Wefin may share information in the course of normal business operations, such as
+            providing services to user who have subscribed for, and for any activity related to these services such
+            as collection of fee. It may become necessary for Wefin to disclose user’s personal information to
+            its agents and contractors in the course of normal business operations for the above referred purpose.
+            However, these third parties would be required to use the information obtained from Wefin for such
+            purposes exclusively. Wefin will endeavour to take all reasonable steps to ensure that the
+            confidentiality of user’s information is maintained by imposing strict confidentiality standards on all
+            the third parties to whom it discloses such information.</p>
+          <p>Wefin may be required to disclose your personal and financial information to the statutory authorities
+            in connection with any legal process that may be initiated by such authorities in accordance with
+            applicable laws. Wefin may occasionally invite selected third parties to participate in offers it feel
+            would be attractive to Users of the App. Wefin may also share user information to provide user with
+            superior services and a range of offers. Wefin may use this information to advise user of products,
+            services and other marketing materials, which it think, may be of interest to user. Wefin may also
+            invite visitors to the App to participate in market research and surveys and other similar activities.
+            Wefin will use user information to improve user experience on the App and make subsequent offers
+            to user on products which may be of interest to the user. User authorize Wefin to exchange, share,
+            part with all information related to user’s details and transaction history to its affiliates / subsidiaries
+            / banks / financial institutions / credit bureaus / agencies/ advertisers / participation in any
+            telecommunication or electronic clearing network as may be required by law, customary practice,
+            credit reporting, statistical analysis and credit scoring, verification or risk management and shall not
+            hold Wefin liable for use or disclosure of this information.</p>
+          <p>Wefin will not sell or rent or otherwise disclose your information for commercial purposes to any
+            third party in a way that is contrary to the commitments made and / or other than as set forth in this
+            Privacy Policy.
+            There are number of products/services such as loans, credit cards, mutual funds, offered by third
+            Parties on the Website, such as lenders, banks, credit card issuers. If you choose to apply for these
+            separate products or services, disclose information to these providers, then their use of your
+            information is governed by their privacy policies in addition to the Privacy Policy of the Wefin App.
+            Wefin shall not be responsible for their privacy policies. We encourage you to visit and read about
+            the privacy notices and procedures adopted by these third parties/providers, when you apply for their
+            products or services.</p>
+
+
+          <h2>4.4 Collection of Cookies</h2>
+          <p>A cookie is a piece of data stored on the user's computer tied to information about the user. We may
+            use both session ID cookies and persistent cookies. For session ID cookies, once you close your
+            browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored
+            on your computer’s hard drive for an extended period of time.</p>
+          <p>We use data collection devices such as cookies or similar technologies on certain pages of the Platform
+            to help analyze our App flow, measure promotional effectiveness, and promote trust and safety.
+            Cookies do not contain any of your Personal Information. We offer certain features that are only
+            available through the use of a "cookie" or similar technologies. We also use cookies to allow you to
+            enter your password less frequently during a session i.e Persistent Cookies</p>
+          <p>Most browsers will tell you how to prevent your browser from accepting new cookies, how to have
+            the browser notify you when you receive a new cookie and how to disable cookies altogether. You are
+            always free to decline/delete our cookies or similar technologies if your browser/device permits,
+            although in that case you may not be able to use certain features on the App and you may be required
+            to re-enter your password more frequently during a session. However, because cookies allow you to
+            take advantage of some of the App’s essential features, we recommend that you leave them turned on.
+            Additionally, you may encounter "cookies" or other similar technologies on certain pages of the
+            Platform that are placed by third parties. We do not control the use of cookies by third parties.</p>
+
+
+          <h2>4.5 Storage of Personal Data</h2>
+          <p>To the extent applicable, we store Personal Information () within India and retain it in accordance with
+            applicable laws and for a period no longer than it is required for the purpose for which it was collected.
+            We use reasonable safeguards to preserve the integrity and security of your information against loss,
+            theft, unauthorised access, disclosure, reproduction, use or amendment. To achieve the same, we use
+            reasonable security practices and procedures as mandated under applicable laws for the protection of
+            your information.</p>
+          <p>However, we may retain Personal Information related to you if we believe it may be necessary to
+            prevent fraud or future abuse or if required by law such as in the event of the pendency of any
+            legal/regulatory proceeding or receipt of any legal and/or regulatory direction to that effect or for other
+            legitimate purposes.</p>
+          <p>Once the Personal Information has reached its retention period, it shall be deleted in compliance with
+            applicable laws</p>
+
+          <h2>4.6 Data Security</h2>
+          <p>The information provided by user is stored with restricted access as we understand that the
+            confidentiality, integrity and availability of your data is vital to our business operations and success.
+            User information transmitted over the internet is protected through the use of encryption, using the
+            Secure Socket Layer (SSL) or equivalent protocols. If a password is used to help protect user’s
+            accounts and account information, it is the user’s responsibility to keep the password confidential.
+            User have to ensure that the user always log out, before sharing the device with a third party and user
+            is advised that the user utilize a service to protect access to user’s device. Wefin shall use generally
+            accepted industry standards to protect user information submitted to wefin, both during transmission
+            and upon receipt. No method of transmission over the Internet, or method of electronic storage, is
+            100% secure, therefore, we cannot guarantee its absolute security.</p>
+
+
+          <h2>4.7 Third Party Advertisers or Websites</h2>
+          <p> When you are availing products and services of service providers on Wefin App, Personal
+            Information may be collected by respective service providers and such Personal Information shall be
+            governed by their privacy policy. You may refer to their privacy policy and terms of service to
+            understand how your Personal Information will be handled by such service providers.</p>
+          <p>Our services may include links to other websites or applications when you visit our App. Such
+            websites or applications are governed by their respective privacy policies, which are beyond our
+            control. Once you leave our servers (you can tell where you are by checking the URL in the location
+            bar on your browser or on the m-site you are redirected to), use of any Personal Information that you
+            provide on these websites or applications is governed by the privacy policy of the operator of the
+            application/website, you are visiting. That policy may differ from ours and you are requested to review
+            those policies or seek access to the policies from the domain owner before proceeding to use those
+            applications or websites. We do not accept any responsibility or liability for usage of your Personal
+            Information by these third parties or their policies</p>
+
+
+          <h2>4.8  Changes in this Policy</h2>
+          <p>Wefin reserves the right to change this policy from time to time, at its sole discretion. We may
+            change, update, modify, add or remove portions of this privacy policy to reflect changes to our information
+            practices. We may, however, reasonably endeavour to notify you of the changes. We
+            encourage you to periodically review the Privacy Policy. Checking the effective date below allows
+            you to determine whether there have been changes since the last time you reviewed the statement.
+            Your continued use of our services, following the posting of changes will mean that you accept and
+            agree to the revisions. We will never make changes to policies in order to make it less protective of
+            Personal Information already shared by you</p>
+
+          <h2> 4.9 Consent & Your Control Over Your Personal Information </h2>
+          <p> Consent & Your Control Over Your Personal Information Consent & Your Control Over Your Personal
+            Information. </p>
+          <p> We process your Personal Information with consent. By using the Wefin App or services and/or by
+            providing your Personal Information, you consent to the processing of your Personal Information by
+            Wefin in accordance with this Privacy Policy. If you disclose to us any Personal Information relating
+            to other people, you represent that you have the authority to do so and permit us to use the information
+            in accordance with this Privacy Policy.</p>
+          <p>When you provide your contact details, we will use it to send you general notices or important news
+            about your account, request your feedback or opinions and provide updates on special deals and offers
+            that might interest you.</p>
+
+          <h2>4.10 Opt Out Policy</h2>
+          <p>We provide all users with the opportunity to opt-out of receiving any of our services or non-essential
+            (promotional, marketing-related) communications from us, after setting up an account. If you want to
+            remove your contact information from all our lists and newsletters or discontinue any our services,
+            please click on the unsubscribe button on the emailers. Deletion of Personal Information from wefin
+            records after receiving the mail at below mail id - TAT 30 days</p>
+          <h2>4.11 Contact Us </h2>
+          <p>In case you have any questions, concerns or complaints regarding the processing / deletion of your Personal
+            Information or this Privacy Policy you may write to us at <a
+              href="mailto:support@wefin.in">support@wefin.in</a>. </p>
+              
+        </div>
+
+      </div>
+      </div>
+    </section>
+
+
+
+
+
+    <footer class="bs-footer">
+      <div class="container">
+        <div class="row footContent">
+          <div class="col-lg-5 mb-1 mb-lg-0 ">
+            <div class="footer_text">
+              <h2>About Us</h2>
+              <p>
+                Wefin is owned by <a href="neotec.html" style="color: #fff; font-size: 12px;">Neotec Enterprises
+                  Ltd</a>., a 100% wholly owned subsidiary of RattanIndia Enterprises Ltd. Wefin is a digital lending
+                aggregator platform that works in partnership with most trusted banks and NBFCs in the country to
+                provide Personal Loans, Two Wheeler Loans and Credit Cards in a hassle free online process. </p>
+            </div>
+            <div class="bs-social">
+              <ul>
+                <li><a href="https://www.facebook.com/bankse.in/" aria-label="facebook" target="_blank">
+                    <svg width="18.622" height="34.77" viewBox="0 0 18.622 34.77">
+                      <use xlink:href="#fb"></use>
+                    </svg></a></li>
+                <li>
+                  <a href="https://www.instagram.com/bankse.in/" aria-label="instagram" target="_blank">
+                    <svg width="35.062" height="35.054" viewBox="0 0 35.062 35.054">
+                      <use xlink:href="#insta"></use>
+                    </svg></a>
+                </li>
+                <li><a href="https://twitter.com/BankSe_in" aria-label="twitter" target="_blank">
+                    <svg width="40.027" height="33.284" viewBox="0 0 40.027 33.284">
+                      <use xlink:href="#twitter"></use>
+                    </svg></a></li>
+
+                <li>
+                  <a href="https://www.linkedin.com/company/bankse-in" aria-label="link" target="_blank"><svg
+                      width="35.047" height="35.055" viewBox="0 0 35.047 35.055">
+                      <use xlink:href="#link"></use>
+                    </svg></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class=" col-lg-3 col-4 col-sm-4 offset-md-1 mb-1 mb-lg-0">
+            <div class="bs-footer-links bs-comp">
+              <h2>Quick Links</h2>
+              <ul class="footLinkHolder">
+                <li><a href="about-us.html">About Us</a></li>
+
+                <li><a href="https://blog.wefin.in/">Blog</a></li>
+                <li><a href=career.html>Career</a></li>
+                <li><a href="faq.html">FAQs</a></li>
+                <!-- <li><a  href="#">Careers</a></li>-->
+                <li><a href="terms-of-use.html">Terms of Use</a> </li>
+                <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                <li><a href="grievance-redressal.html"> Grievance Redressal</a></li>
+              </ul>
+            </div>
+          </div>
+
+
+          <div class="col-lg-3 col-8 col-sm-4 mb-1 mb-lg-0 ">
+            <div class="bs-footer-links bs-cont">
+              <h2>Contact Us</h2>
+              <ul class="footLinkHolder">
+                <li>
+
+                  Neotec Enterprises Limited,<br> 5th Floor World Mark 1, Aerocity,<br /> New Delhi-110037</li>
+                <li><a href="mailto:info@wefin.in">info@wefin.in</a></li>
+                <li><a href="tel:01140724283">011-40724283</a></li>
+
+              </ul>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+
+
+      <div class="bs-copy-section">
+        <div class="container">
+          <div class="row">
+
+            <div class="col-sm-12 text-center">
+              <p>CIN No. U74999DL2021PLC378755 © Copyright owned by <a href="neotec.html"
+                  style="color: #fff; font-size: 12px;">Neotec Enterprises Ltd</a>.
+                <script>new Date().getFullYear() > document.write(new Date().getFullYear());</script>
+              </p>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </footer>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><svg width="30" height="30"
+        viewBox="0 0 30 30">
+        <use xlink:href="#uparrow"></use>
+      </svg></a>
+    <svg display="none">
+      <symbol width="23.726" height="26.909" viewBox="0 0 23.726 26.909" id="playstore">
+        <path id="get-app-playstore-icon.4cd03680"
+          d="M1.244,1,13.92,13.585,17.4,10.11,2.03,1.238A1.677,1.677,0,0,0,1.244,1ZM.183,1.585A1.457,1.457,0,0,0,0,2.3V26.757a1.3,1.3,0,0,0,.11.53L13.08,14.41.182,1.585Zm18.274,9.128-3.713,3.7,3.713,3.676,4.537-2.6a1.153,1.153,0,0,0,.018-2.14c-.386-.209-3.256-1.88-4.555-2.635Zm-4.536,4.519L1.134,27.909a1.458,1.458,0,0,0,.659-.183l10.628-6.147,4.994-2.872Z"
+          transform="translate(0 -1)" />
+      </symbol>
+
+      <symbol height="26.909" viewBox="0 0 23.726 26.909" id="appstore">
+        <path id="get-app-appstore-icon.7574675c"
+          d="M20.659,1a7.182,7.182,0,0,0-4.391,2.055,4.581,4.581,0,0,0-1.4,3.926,6.011,6.011,0,0,0,4.391-1.963A4.924,4.924,0,0,0,20.659,1Zm.092,5.978c-2.434,0-3.452,1.5-5.137,1.5-1.734,0-3.32-1.4-5.419-1.4C7.34,7.074,3,9.719,3,15.95c0,5.668,5.136,11.959,8.036,11.959,1.761.017,2.188-1.107,4.578-1.119s2.908,1.134,4.672,1.119c1.986-.015,3.537-2.2,4.67-3.926a19.44,19.44,0,0,0,1.776-3.269c-4.673-1.184-5.6-8.719,0-10.277A8.513,8.513,0,0,0,20.751,6.978Z"
+          transform="translate(-3 -1)" />
+      </symbol>
+      <symbol width="35.062" height="35.054" viewBox="0 0 35.062 35.054" id="insta">
+
+        <path id="Icon_awesome-instagram-2" data-name="Icon awesome-instagram"
+          d="M17.53,10.777a8.987,8.987,0,1,0,8.987,8.987A8.973,8.973,0,0,0,17.53,10.777Zm0,14.83a5.843,5.843,0,1,1,5.843-5.843,5.854,5.854,0,0,1-5.843,5.843Zm11.451-15.2a2.1,2.1,0,1,1-2.1-2.1A2.091,2.091,0,0,1,28.981,10.41Zm5.953,2.128c-.133-2.808-.774-5.3-2.832-7.345S27.565,2.5,24.757,2.361c-2.894-.164-11.569-.164-14.463,0-2.8.133-5.288.774-7.345,2.824S.259,9.721.118,12.529c-.164,2.894-.164,11.569,0,14.463.133,2.808.774,5.3,2.832,7.345s4.537,2.691,7.345,2.832c2.894.164,11.569.164,14.463,0,2.808-.133,5.3-.774,7.345-2.832s2.691-4.537,2.832-7.345c.164-2.894.164-11.561,0-14.455ZM31.195,30.1a5.916,5.916,0,0,1-3.332,3.332c-2.307.915-7.783.7-10.333.7s-8.033.2-10.333-.7A5.916,5.916,0,0,1,3.865,30.1c-.915-2.307-.7-7.783-.7-10.333s-.2-8.033.7-10.333A5.916,5.916,0,0,1,7.2,6.1C9.5,5.185,14.98,5.4,17.53,5.4s8.033-.2,10.333.7a5.916,5.916,0,0,1,3.332,3.332c.915,2.307.7,7.783.7,10.333S32.11,27.8,31.195,30.1Z"
+          transform="translate(0.005 -2.238)" />
+      </symbol>
+      <symbol width="18.622" height="34.77" viewBox="0 0 18.622 34.77" id="fb">
+        <path id="Icon_awesome-facebook-f-2" data-name="Icon awesome-facebook-f"
+          d="M19.011,19.558l.966-6.292H13.939V9.182c0-1.722.843-3.4,3.548-3.4h2.745V.425A33.474,33.474,0,0,0,15.359,0C10.387,0,7.137,3.014,7.137,8.47v4.8H1.609v6.292H7.137V34.77h6.8V19.558Z"
+          transform="translate(-1.609)" />
+
+      </symbol>
+
+
+      <symbol width="40.027" height="33.284" viewBox="0 0 40.027 33.284" id="twitter">
+
+
+        <path id="Path_8259" data-name="Path 8259"
+          d="M122.875,409.721a26.64,26.64,0,0,1-12.926-3.46,1.658,1.658,0,0,1,.871-3.107,17.815,17.815,0,0,0,8.151-1.625c-12.7-7.792-6.464-22.266-6.395-22.421a1.657,1.657,0,0,1,2.872-.279,16.092,16.092,0,0,0,12,6.815,9.136,9.136,0,0,1,15.229-6.878,16.471,16.471,0,0,0,3.83-2.008,1.658,1.658,0,0,1,2.568,1.746,14.529,14.529,0,0,1-3.33,6.3c.025.27.038.542.039.814,0,9.148-4.049,16.774-11.111,20.928A23.164,23.164,0,0,1,122.875,409.721Zm-5.585-4.048a20.524,20.524,0,0,0,15.7-1.987c6.022-3.543,9.476-10.127,9.476-18.064a5.883,5.883,0,0,0-.1-1.074,1.654,1.654,0,0,1,.464-1.491,11.372,11.372,0,0,0,1.055-1.2q-.583.216-1.181.4a1.662,1.662,0,0,1-1.729-.5,5.817,5.817,0,0,0-10.206,3.9v1.691A1.659,1.659,0,0,1,129.152,389a19.4,19.4,0,0,1-14.406-5.839c-1,4.258-1.407,12.458,8.363,16.8a1.658,1.658,0,0,1,.258,2.887A21.1,21.1,0,0,1,117.291,405.673Z"
+          transform="translate(-109.097 -376.437)" />
+
+      </symbol>
+      <symbol width="35.047" height="35.055" viewBox="0 0 35.047 35.055" id="link">
+
+        <path id="Path_8256" data-name="Path 8256"
+          d="M-353.515,368.4q0-11.462,0-22.924v-.46h6.971v3.243a2.321,2.321,0,0,0,.187-.216,7.29,7.29,0,0,1,5.4-3.515,10.54,10.54,0,0,1,5.226.481,6.634,6.634,0,0,1,4.189,4.67,17.314,17.314,0,0,1,.665,4.965c.023,4.585.013,9.169.015,13.754h-7.256c0-4.071.006-8.142-.016-12.213a15.177,15.177,0,0,0-.2-2.278,3.211,3.211,0,0,0-3.056-3.062c-2.388-.221-4.105.731-4.6,3.241a15.287,15.287,0,0,0-.258,2.817c-.029,3.831-.015,7.663-.017,11.495Z"
+          transform="translate(365.904 -333.35)" />
+        <path id="Path_8257" data-name="Path 8257"
+          d="M-483.012,374.571c.009-.159.026-.317.026-.476q0-11.208,0-22.415v-.492h7.274v.456q0,11.225,0,22.45c0,.159.014.318.022.477Z"
+          transform="translate(483.56 -339.517)" />
+        <path id="Path_8258" data-name="Path 8258"
+          d="M-489,227.253c.025-.1.055-.2.074-.295a4.244,4.244,0,0,1,4.526-3.388,4.231,4.231,0,0,1,3.817,4.2,4.262,4.262,0,0,1-3.7,4.206,4.242,4.242,0,0,1-4.639-3.4c-.019-.1-.049-.2-.075-.3Z"
+          transform="translate(489 -223.549)" />
+
+
+      </symbol>
+      <symbol width="30" height="30" id="uparrow">
+
+        <path d="M7.293 4.707 14.586 12l-7.293 7.293 1.414 1.414L17.414 12 8.707 3.293 7.293 4.707z" />
+      </symbol>
+
+    </svg>
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/is.min.js"></script>
+    <script type="text/javascript" src="assets/js/main.js"></script>
+
+
+</body>
+
+</html>

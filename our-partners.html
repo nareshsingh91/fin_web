@@ -1,0 +1,478 @@
+
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Our Partners</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="">
+    <link rel="icon" type="image/png" sizes="32x32" href="">
+    <link rel="icon" type="image/png" sizes="16x16" href="">
+    <link rel="shortcut icon" type="image/x-icon" href="">
+    <meta name="msapplication-TileImage" content="">
+    <meta name="theme-color" content="#ffffff">
+<link href="https://fonts.googleapis.com/css?family=Muli:200,300,400,500,600,700,800,900" rel="stylesheet"/>
+<link href="assets/css/bankse-common.css?v=1d112ddddd122" rel=stylesheet>
+
+  </head>
+
+<style>
+  .bs-partner-section,
+.bs-services-section {
+  padding-top: 40px;
+  background-color: #fff;
+}
+.bs-partner-section {
+  background-color: #f8f8f8;
+  padding-bottom: 60px;
+}
+.bs-app-info-section .bs-app-title h3,
+.bs-contact-section .bs-contact-titile h3,
+.bs-partner-section .bs-partner-title h3,
+.bs-services-section .bs-services-header h3 {
+  color: #2d343e;
+  font-size: 26px;
+  font-weight: 500;
+}
+span.text {
+  color: transparent;
+  display: inline-block !important;
+  border-radius: 3px;
+  background-color: #1d3557;
+  position: relative;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+span.text:before {
+  content: attr(data-title);
+  background: linear-gradient(90deg, #f58915 0, #ff5800 51%, #2e0080 100%);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  background-clip: text;
+  -webkit-background-clip: text;
+  transition: 1s ease-in-out;
+  animation: 3s infinite text-animation;
+}
+@keyframes text-animation {
+  0%,
+  100% {
+    width: 0;
+  }
+  50% {
+    width: 100%;
+  }
+}
+.bs-aa-banner {
+  background-color: #ece3ff;
+  padding: 25px 0;
+}
+.bs-aa-banner figure,
+.bs-banner-block figure {
+  margin: 0;
+}
+.bs-aa-banner figure img {
+  width: 100%;
+  max-width: 270px;
+  height: auto;
+}
+.bs-aa-banner h3,
+.bs-aa-banner p {
+  color: #353535;
+}
+.bs-aa-banner h3 {
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.bs-aa-banner p {
+  font-size: 19px;
+  font-weight: 600;
+  max-width: 500px;
+}
+.bs-aa-banner a {
+  display: block;
+  background-color: #2e0080;
+  color: #fff;
+  font-size: 16px;
+  width: 140px;
+  text-align: center;
+  height: 42px;
+  line-height: 42px;
+  border-radius: 5px;
+}
+.bs-aa-banner a:active,
+.bs-aa-banner a:hover,
+.bs-aa-banner a:visited,
+.ui-state-error a,
+.ui-state-error-text,
+.ui-widget-content .ui-state-error a,
+.ui-widget-content .ui-state-error-text,
+.ui-widget-header .ui-state-error a,
+.ui-widget-header .ui-state-error-text,
+.ui-widget-header a {
+  color: #fff;
+}
+.bs-app-info-section .bs-app-title span,
+.bs-contact-section .bs-contact-titile span,
+.bs-partner-section .bs-partner-title span,
+.bs-services-section .bs-services-header span {
+  display: block;
+    width: 70px;
+    height: 0px;
+    margin: 5px auto;
+}
+.bs-contact-section .bs-contact-titile span {
+  background: #ff5800;
+}
+.bs-partner-section .bs-partner-title p,
+.bs-services-section .bs-services-header p {
+  font-size: 14px;
+  color: #6b6b6b;
+  letter-spacing: 0.2px;
+  max-width: 520px;
+  margin: 0 auto 32px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.bs-services-box {
+  position: relative;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: start;
+  padding: 18px 16px 0;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid #f5f5f5;
+  margin-bottom: 36px;
+  box-shadow: 0 3px 5px 0 rgb(24 62 100 / 7%), 0 12px 16px 0 rgb(46 0 128 / 8%);
+}
+.bs-services-box .bs-services-name {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  width: 75%;
+  color: #2e0080;
+}
+.bs-services-box .bs-services-desc {
+  font-size: 13px;
+  font-weight: 500;
+  color: #494949;
+  margin-bottom: 12px;
+  width: 75%;
+}
+.bs-services-box .bs-services-icon {
+  text-align: right;
+  height: 60px;
+  margin-top: auto;
+  transition: 0.3s;
+  position: absolute;
+  left: 20px;
+  top: 14px;
+}
+.offersBtn {
+  position: absolute;
+  bottom: 15px;
+  font-size: 12px;
+  color: #717171;
+  font-weight: 400;
+  width: 100%;
+  right: 20px;
+  text-align: right;
+}
+.bs-banner-block,
+.bs-cibil-banner-mobile,
+.bs-partner,
+.slick-list,
+.slick-slider,
+.slick-track {
+  position: relative;
+}
+.bs-banner-block {
+  overflow: hidden;
+  margin-top: 30px;
+  clear: both;
+}
+.bs-banner-block .bs-cibil-banner h3 {
+  font-size: 22px;
+  font-weight: 400;
+  color: #2e0080;
+}
+.bs-banner-block .bs-cibil-banner .cibil-banner figure {
+  padding-left: 10px;
+}
+.bs-banner-block .bs-cibil-banner .bs-cibil-btn a {
+  background-color: #2e0080;
+  color: #fff;
+  width: 120px;
+  height: 34px;
+  display: block;
+  text-align: center;
+  line-height: 34px;
+  border-radius: 20px;
+  font-size: 14px;
+  margin-top: 5px;
+}
+.bs-banner-block .bs-qucick-loan-banner {
+  margin-top: 20px;
+  position: relative;
+  padding: 0 0 0 15px;
+}
+.bs-banner-block .bs-qucick-loan-banner h3 {
+  color: #2e0080;
+  font-size: 22px;
+}
+.bs-banner-block .bs-qucick-loan-banner .qucick-loan-banner figure {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.bs-banner-block .bs-qucick-loan-banner .qucick-loan-banner figure img {
+  width: 100%;
+  max-width: 440px;
+}
+.bs-banner-block h3 span {
+  font-weight: 700;
+  display: block;
+}
+.bs-border-right {
+  border-right: 1px solid #ddd;
+}
+.bs-banner-block .bs-qucick-loan-banner p {
+  font-size: 16px;
+  color: #2e0080;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.bs-banner-block .bs-qucick-loan-banner p span,
+.slick-initialized .slick-slide,
+.slick-slide img {
+  display: block;
+}
+.bs-arrow figure {
+  background: rgba(255, 170, 0, 0.2);
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 100%;
+  line-height: 50px;
+}
+.shadow-transition {
+  margin: 0;
+  background-color: #fff !important;
+  width: 100%;
+  padding: 0;
+  transition: 0.1s ease-in;
+  z-index: 99999;
+  box-shadow: 0 1px 8px rgb(0 0 0 / 40%);
+}
+.bs-partners-block {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: -15px auto 0;
+  max-width: 860px;
+  align-items: center;
+}
+.bs-partner {
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px 0 rgb(52 105 203 / 12%);
+    display: inline-block;
+    margin: 15px 0 0;
+    width: 160px;
+    max-width: 160px;
+    height: 70px;
+}
+.bs-partner::after {
+  content: "";
+  background: url(assets/images/bankse_partner_sprites_20_nov.png) no-repeat
+    border-box;
+  background-size: calc(100% - 0px);
+  display: block;
+  z-index: 1;
+  position: absolute;
+  height: 40px;
+  width: 120px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  left: 50%;
+}
+.bs-partner.cs_bank::after {
+  background-position: 0 -735px;
+  height: 64px;
+}
+.bs-partner.sc_bank::after,
+.ui-icon-carat-1-n {
+  background-position: 0 0;
+}
+.bs-partner.idfc_bank::after {
+  background-position: 0 -178px;
+}
+.bs-partner.axis_bank::after {
+  background-position: 0 -356px;
+}
+.bs-partner.fl_indida::after {
+  background-position: 0 -42px;
+}
+.bs-partner.bazaz_bank::after {
+  background-position: 0 -532px;
+}
+.bs-partner.mfl_nbfc::after {
+  background-position: 0 -233px;
+}
+.bs-partner.sme_nbfc::after {
+  background-position: 0 -403px;
+}
+.bs-partner.cashe_nbfc::after {
+  background-position: 0 -571px;
+}
+.bs-partner.loantap_nbfc::after {
+  background-position: 0 -81px;
+}
+.bs-partner.es_nbfc::after {
+  background-position: 0 -702px;
+  height: 30px;
+}
+.bs-partner.money_plus::after {
+  background-position: 0 -445px;
+}
+.bs-partner.exp_nbfc::after {
+  background-position: 0 -616px;
+}
+.bs-partner.mcap_nbfc::after {
+  background-position: 0 -125px;
+}
+.bs-partner.fibe_nbfc::after {
+  background-position: 0 -656px;
+  height: 51px;
+}
+.bs-partner.kredx_nbfc::after {
+  background-position: 0 -795px;
+  height: 44px;
+}
+.bs-partner.tata_nbfc::after {
+  background-position: 0 -845px;
+  height: 50px;
+}
+.bs-partner.finshell_nbfc::after {
+  background-position: 0 -900px;
+  height: 50px;
+}
+</style>
+
+  <body>
+
+
+
+
+    <main class="main" id="top">
+  
+      <section class="bs-partner-section bs-pd-top-50">
+        <div class=container>
+        <div class=row>
+        <div class="col-sm-12 text-center">
+        <div class=bs-partner-title>
+        <h3>
+        Our Partners
+        </h3>
+        <span>&nbsp;</span>
+        <p>Our partners from across the industry</p>
+        </div>
+        </div>
+        </div>
+        <div class=bs-partners-block>
+            <div class=row>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                   <a href="https://creditsaison.in/partnercontact/" > <div class="bs-partner cs_bank">
+        
+                </div></a>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner sc_bank">
+        
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner idfc_bank"></div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner axis_bank"> </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner bazaz_bank"> </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner fl_indida"></div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner mfl_nbfc"> </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner sme_nbfc"></div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner cashe_nbfc"> </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner loantap_nbfc"> </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner es_nbfc"></div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner money_plus"></div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner exp_nbfc">
+                        <!-- <figure> -->
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner mcap_nbfc">
+                        <!-- <figure> -->
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner fibe_nbfc">
+                        <!-- <figure> -->
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner kredx_nbfc">
+                        <!-- <figure> -->
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    
+                    <a href="https://www.tatacapital.com/" > <div class="bs-partner tata_nbfc">
+                        <!-- <figure> -->
+                    </div></a>
+                </div>
+        
+                <div class="col-6 col-sm-4 col-md-3 text-center">
+                    <div class="bs-partner finshell_nbfc">
+                        <!-- <figure> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+        </section>
+
+
+
+   
+    
+  </body>
+
+</html>

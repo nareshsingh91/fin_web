@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h2>Text input fields</h2>
+
+
+<form id="callbackForm" method="post" action="https://apibankinguat.axisbank.co.in/api/ekyc/user/v1/process?trackId=9ec9e731-2898-4ac8-9167-510252bb415b">
+  
+ <label for="requestId">requestId</label>
+<input type="text" id="requestId" name="requestId" value="" RequestId><br>
+   <label for="txn_token">txn_token</label>
+<input type="text" id="txn_token" name="txn_token" value="" Txn_Token><br>
+<label for="trackId">trackId</label>
+<input type="trackId" id="trackId" name="trackId" value=""TrackId>
+
+<br>
+<button type="submit" onclick="getInputValue();">Get Value</button>
+  <script>
+        function getInputValue(){
+		    var apiUrl = 'https://apibankinguat.axisbank.co.in/api/ekyc/user/v1/process?trackId=';
+
+            // Selecting the input element and get its value 
+            var requestId = document.getElementById("requestId").value;
+            var txn_token = document.getElementById("txn_token").value;
+            var trackId = document.getElementById("trackId").value;
+            apiUrl=apiUrl+trackId;
+            
+        }
+    </script>
+</form>
+
+</body>
+</html>

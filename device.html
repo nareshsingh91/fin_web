@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BankSe | Career</title>
+    <meta
+      name="keywords"
+      content="Instant personal loan, Instant loan app, Instant loan online, Instant personal loan online, Instant personal loan app,  Best instant loan app in india, Instant loan approval, Best instant loan app, Cibil score, Cibil report, Cibil score report, Transunion cibil score, Get cibil score, Apply for credit card, Credit card application, Bike loan, Two wheeler loan, Zero down payment bike loan, 0 interest two wheeler loan, Second hand bike loan, Two wheeler loan online approval, Loan against bike, Finance bike loan, Business loan, msme loans, Msme loans, Startup business loan, Small business loan"
+    />
+    <meta
+      name="description"
+      content="A digital marketplace that provides all types of loans and other financial products. We provide the best choice of Financial products offered by various trusted leading banks in India"
+    />
+
+    <meta name="msapplication-TileImage" content="" />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+  <body>
+    <div id="mobile"></div>
+    <div id="iphone"></div>
+    <div id="android"></div>
+    <script
+      type="text/javascript"
+      src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2"
+    ></script>
+    <script>
+      var isMobile = {
+        Android: function () {
+          return navigator.userAgent.match(/Android/i);
+        },
+        BlackBerry: function () {
+          return navigator.userAgent.match(/BlackBerry/i);
+        },
+        iOS: function () {
+          return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+        },
+        iPhone: function () {
+          return navigator.userAgent.match(/iPhone/i);
+        },
+        iPad: function () {
+          return navigator.userAgent.match(/iPad/i);
+        },
+        Opera: function () {
+          return navigator.userAgent.match(/Opera Mini/i);
+        },
+        Windows: function () {
+          return navigator.userAgent.match(/IEMobile/i);
+        },
+        any: function () {
+          return (
+            isMobile.Android() ||
+            isMobile.BlackBerry() ||
+            isMobile.iOS() ||
+            isMobile.Opera() ||
+            isMobile.Windows()
+          );
+        },
+      };
+
+      //test
+      // if (isMobile.any()) {
+      //   document.getElementById("mobile").innerHTML =
+      //     '<a href="https://app.bankse.in/">Mobile Web</a>';
+      // } else {
+      //   document.getElementById("mobile").innerHTML =
+      //     '<a href="https://app.bankse.in/">Desktop</a>';
+      // }
+
+      if (isMobile.iPhone()) {
+        document.getElementById("iphone").innerHTML =
+          '<a href="https://apps.apple.com/us/app/bankse/id1602186654">Download App</a>';
+      }
+
+      if (isMobile.Android()) {
+        document.getElementById("android").innerHTML =
+          '<a href="https://play.google.com/store/apps/details?id=com.bankse">Download App</a>';
+      }
+    </script>
+  </body>
+</html>
